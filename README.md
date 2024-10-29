@@ -1,5 +1,5 @@
 # Energy-based Domain Adaptation without Intermediate Dataset for Foggy Scene Segmentation
-
+Accepted at IEEE Transactions on Image Processing (TIP) 
 ## Requirements
 This repository is implemented on
 + **Ubuntu 16.04**
